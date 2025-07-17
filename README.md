@@ -12,7 +12,6 @@ Esta es una sencilla aplicación de gestión de tareas (CRUD) desarrollada con F
 
 ## 📸 Capturas de Pantalla
 
-*(Aquí puedes añadir una captura de pantalla de la aplicación en funcionamiento)*
 <img width="456" height="752" alt="crud_1" src="https://github.com/user-attachments/assets/4d11b4ac-a6af-43a3-95bb-63c9a1928f15" />
 
 <img width="451" height="752" alt="crud_2" src="https://github.com/user-attachments/assets/cee30fc5-6621-4769-b59e-8b9b1ec7beff" />
